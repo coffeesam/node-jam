@@ -6,6 +6,9 @@ lib-cov
 *.out
 *.pid
 *.gz
+*.orig
+
+**/*.mp3
 
 pids
 logs
