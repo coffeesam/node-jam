@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+node-jam
+========
+
+A Jamming app written in Node.JS
+=======
 # Installation
     $ brew install sox
     $ npm install
@@ -13,3 +19,4 @@ Copyright (C) 2011 by Justin Latimer
 * https://github.com/justinlatimer/node-midi
 
 MIT
+>>>>>>> Basic Jamming and recording
